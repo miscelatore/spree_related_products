@@ -7,12 +7,12 @@ it:
         other: Relazioni
       spree/relation_type:
         one: Tipo di Relazione
-        other: Tipologie Prodotti Correlati
+        other: Tipologie Articoli Correlati
   spree:
     new_relation_type: Nuovo Tipo di Relazione
     related_product_discount: Sconto prodotti correlati
     applies_to: Si applica a
-    related_products: Tipologie Prodotti Correlati
-    add_related_product: Aggiungi un Prodotto Correlato
-    name_or_sku_short: Nome o SKU
-    no_relation_types: Devi configurare le Tipologie di Prodotti Correlati prima di poter usare questa funzione.
+    related_products: Tipologie Articoli Correlati
+    add_related_product: Aggiungi un Articolo Correlato
+    name_or_sku_short: Nome o Codice Articolo (SKU)
+    no_relation_types: Devi configurare le Tipologie di Articoli Correlati prima di poter usare questa funzione.
